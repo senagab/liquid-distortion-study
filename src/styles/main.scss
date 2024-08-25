@@ -1,3 +1,5 @@
+@use 'variables';
+
 *{
     margin: 0;
     padding: 0;
@@ -24,7 +26,7 @@ img {
         padding: 4em 2em;
 
         h1 {
-            font-family: 'Dahlia', sans-serif;
+            font-family: 'Projekt Blackbird', sans-serif;
         }
     }
 }
